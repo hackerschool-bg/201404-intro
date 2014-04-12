@@ -1,4 +1,4 @@
-Telebid Pro Class Spring 2014
+Telebid Pro Class Начинаещи 2014
 =========
 Здравейте, това е git хранилището на Telebid Pro Class 2014.
 
