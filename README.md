@@ -10,7 +10,7 @@ Tова е git хранилището на класа, което ще изпо�
 
 Съдържание
 =========
-[1. Въведение](https://github.com/telebid-class/201404-intro/wiki/2.-%D0%98%D0%B7%D0%BF%D0%BE%D0%BB%D0%B7%D0%B2%D0%B0%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B0)
+[1. Въведение](https://github.com/telebid-class/201404-intro/wiki/1.-%D0%92%D1%8A%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
 
 [2. Използвана среда](https://github.com/telebid-class/201404-intro/wiki/2.-%D0%98%D0%B7%D0%BF%D0%BE%D0%BB%D0%B7%D0%B2%D0%B0%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B0)
 
