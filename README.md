@@ -10,4 +10,4 @@ Tова е git хранилището на класа.
 - Място за материали;
 
 ----
-## [Съдържание](https://github.com/telebid-class/201404-intro/wiki)
+## [Инструкции](https://github.com/telebid-class/201404-intro/wiki)
