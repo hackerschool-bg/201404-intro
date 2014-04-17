@@ -11,5 +11,3 @@ Tова е git хранилището на класа.
 
 ----
 ## [Инструкции](https://github.com/telebid-class/201404-intro/wiki)
-
-loc_s
