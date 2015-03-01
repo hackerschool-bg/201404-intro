@@ -1,0 +1,48 @@
+[submodule "GVelev"]
+	path = GVelev
+	url = https://github.com/GVelev/201404-intro.git
+[submodule "PlamenKoynov/CSharp"]
+	path = PlamenKoynov/CSharp
+	url = https://github.com/PlamenKoynov/CSharp.git
+[submodule "PlamenKoynov/Tasks"]
+	path = PlamenKoynov/Tasks
+	url = https://github.com/PlamenKoynov/Tasks.git
+[submodule "RidvanBekir"]
+	path = RidvanBekir
+	url = https://github.com/RidvanBekir/Ridvan_Telebit_Tasks.git
+[submodule "Mekliov/dir1"]
+	path = Mekliov/dir1
+	url = https://github.com/Mekliov/Ahmed.git
+[submodule "Mekliov/dir2"]
+	path = Mekliov/dir2
+	url = https://github.com/Mekliov/T.Programss.git
+[submodule "kodzheykov"]
+	path = kodzheykov
+	url = https://github.com/RosettaStoned/kodzheykov_workspace.git
+[submodule "DanielLazarov"]
+	path = DanielLazarov
+	url = https://github.com/DanielLazarov/TelebidStuff.git
+[submodule "Christopher_Petkov"]
+	path = Christopher_Petkov
+	url = https://github.com/Chris5kov/Christopher_Petkov.git
+[submodule "IamBc/tbcp"]
+	path = IamBc/tbcp
+	url = https://github.com/IamBc/tbcp
+[submodule "IamBc/dbengine"]
+	path = IamBc/dbengine
+	url = https://github.com/IamBc/dbengine.git
+[submodule "IamBc/query_generator"]
+	path = IamBc/query_generator
+	url = https://github.com/IamBc/query_generator.git
+[submodule "IamBc/Develop-Time"]
+	path = IamBc/Develop-Time
+	url = https://github.com/IamBc/Develop-Time.git
+[submodule "IamBc/PerlJournal"]
+	path = IamBc/PerlJournal
+	url = https://github.com/IamBc/PerlJournal.git
+[submodule "stefi-stoyanova"]
+	path = stefi-stoyanova
+	url = https://github.com/stefi-stoyanova/Telebid-pro.git
+[submodule "Vurbana"]
+	path = Vurbana
+	url = https://github.com/Vurbana/Tasks.git
